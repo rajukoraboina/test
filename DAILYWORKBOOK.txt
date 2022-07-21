@@ -1,0 +1,151 @@
+TourPlan:
+========
+
+
+4645172398   godavari
+6833352394   konarak
+
+
+
+
+
+pmkisan.gov.in/RegistrationFormnew.aspx     Land
+
+
+4/28/2022
+
+
+
+
+wellLog       issue is there in service class insted of delete need to write add method.
+opsreport      working fine   added fileds in requ mandatory
+log
+risk         working fine
+realtime      issue with  data type name wrong in service call.
+
+
+
+
+9/5/2022
+==========
+
+java8 defalut methods and static methods in interfaces
+
+
+
+new Project:
+============
+
+youtube.com/watch?v=k79-kwseu8U
+
+youtube.com/watch?v=ceuxe2uiBsU   imp
+
+
+Biuld RestAPI with APIGateWay
+
+
+
+youtube.com/watch?v=Ut5CkSz6NR0           DB with Rest
+
+
+
+AWSLambdaServerlessArch:  No need to run any code in any server ...
+========================
+   Aws Lambda is a serveless computing service provice by amzon to reduce the configuration of Servers and OS.
+ 
+Where To Use: when you want to expose a web endpoint.A stram processor or a task to cloud without depending on server and OS.
+
+note:
+
+exposing lambda functions
+how to create lambda functions in AWS.
+deply the code in lambda.(using jar )   env varibles need to chenage.
+
+=========================================================================================================================================
+
+JAVA BASE AWS:
+
+https://www.youtube.com/watch?v=pjBa4AxWfCQ
+
+youtube.com/watch?v=qXZtSeZoSI0    lamda
+
+
+https://www.youtube.com/watch?v=Tbf7F42tcBw   sql
+
+================================================================================================june LastWeek===================================
+
+https://web.yammer.com/main/org/lnttsgroup.onmicrosoft.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4MTI4MjY2MjQwMCJ9/files
+
+
+LTTSGIT Details
+
+raju.koraboina@ltts.com
+AmmaJune@2022
+
+git commands:
+============
+git init - to inilialize the folder
+
+git add . - add the file to remote repository
+
+git commit -m "message" - commit
+
+git branch -m main- creating a branches
+
+git remote add origin <repository name - copy the code from local to remote
+
+git push -u origin main - pushing the code to remote
+
+
+
+
+Linux commands:
+===============
+
+sudo -i
+
+adduser raj       adding user
+
+
+
+
+
+minimum cost graph  hacker earth
+minisum  And
+calculate cose
+
+
+interview 
+
+
+second higest number in array without using predefind methods    imp
+
+first and second third higest salary in sql
+
+springbuffer and builder diff
+
+restcontroller and controler diff
+
+lambda expressions
+
+stringjoin  how to use  need to join to strings 2.
+
+repetaed char in string
+
+
+
+
+
+
+
+
+Collections:
+
+Predicate:predicare is a function taking one arguments and retutns boolean value.
+
+consumes:  consumes takes the values and consumes it doest retuen any value.
+
+
+
+Prime numbers are natural numbers that are divisible by only 1 and the number itself.
+
